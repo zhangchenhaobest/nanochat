@@ -1,5 +1,31 @@
 # nanochat
 
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The best ChatGPT that $100 can buy.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+100 美元能买到的最好 ChatGPT 实现。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
+# nanochat
+
 ![nanochat logo](dev/nanochat.png)
 ![scaling laws](dev/scaling_laws_jan26.png)
 
